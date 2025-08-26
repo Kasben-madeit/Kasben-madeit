@@ -79,7 +79,7 @@ README TEMPLATE — Personalized for Ofori Asare Benjamin (Kasben-madeit)
 
 * 🏠 **Hostel Website** (In Progress): a booking system for student hostels with backend API and React frontend under development.
 
-** 📈 Learning-focused repos on Git, Python, and shell scripting with clear documentation and test cases.
+* 📈 Learning-focused repos on Git, Python, and shell scripting with clear documentation and test cases.
 
 ---
 
@@ -96,18 +96,18 @@ README TEMPLATE — Personalized for Ofori Asare Benjamin (Kasben-madeit)
         <li>Stack: Python, Django, SQLite</li>
         <li>Highlights: Authentication, bundle logic, API endpoints</li>
       </ul>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kasben-madeit&repo=mtn-data-clone&show_owner=true" alt="Pinned Repo 1"/>
+      <img src="##" alt="Pinned Repo 1"/>
     </td>
   </tr>
   <tr>
     <td>
-      <h4><a href="https://github.com/Kasben-madeit/hostel-website">Hostel Website</a></h4>
+      <h4><a href="##">Hostel Website</a></h4>
       <p>Platform to list and book student hostels on campus with backend API integration.</p>
       <ul>
         <li>Stack: Django, React, PostgreSQL</li>
         <li>Highlights: Booking system, authentication, admin dashboard</li>
       </ul>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kasben-madeit&repo=hostel-website&show_owner=true" alt="Pinned Repo 2"/>
+      <img src="##" alt="Pinned Repo 2"/>
     </td>
   </tr>
 </table>
