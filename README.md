@@ -118,7 +118,7 @@ README TEMPLATE — Personalized for Ofori Asare Benjamin (Kasben-madeit)
 
 * <strong>ALX ProDev — Backend Engineering</strong> · 2025 – Present
   Rigorous hands-on projects across Linux, Git, networking, Python backends, DBs, and deployment.
-* <strong>University of Ghana (Level 200)</strong> — Computer Science
+* <strong>University of Cape Coast (Level 300)</strong> — Computer Science
 * Freelance / personal projects focused on API design, data modeling, and DevOps.
 
 ---
@@ -127,9 +127,9 @@ README TEMPLATE — Personalized for Ofori Asare Benjamin (Kasben-madeit)
 
 <h3>Certificates</h3>
 
-* Udemy — Python for Everybody (Completed)
-* Udemy — \[Course 2 Name] (Completed)
-
+* Udemy — Python for Everybody(Beginner) (Completed)
+* Udemy — Python for Everybody(Intermediate) (Completed)
+* ALX — Professional Foundations (Completed)
 ---
 
 <!-- ====== CONTRIBUTIONS / COMMUNITY ====== -->
