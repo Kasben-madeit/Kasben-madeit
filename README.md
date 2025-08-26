@@ -75,9 +75,11 @@ README TEMPLATE — Personalized for Ofori Asare Benjamin (Kasben-madeit)
 
 <h3>Selected impact</h3>
 
-* ⚙️ Built **MTN Data Clone Site**: a simulation platform mimicking telecom bundle purchases.
-* 🏠 Developed **Hostel Website**: a booking system for student hostels with backend API and database support.
-* 📈 Learning-focused repos on Git, Python, and shell scripting with clear documentation and test cases.
+* ⚙️ **MTN Data Clone Site** (In Progress): a simulation platform mimicking telecom bundle purchases; backend logic functional with ongoing UI/feature improvements.
+
+* 🏠 **Hostel Website** (In Progress): a booking system for student hostels with backend API and React frontend under development.
+
+** 📈 Learning-focused repos on Git, Python, and shell scripting with clear documentation and test cases.
 
 ---
 
